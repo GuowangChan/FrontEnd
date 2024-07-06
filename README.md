@@ -1,5 +1,5 @@
 # FrontEnd
 前端学习笔记
-![ing](/assets/ing.jpg)
+![ing](./image/ing.jpg)
 
 **学无止境~**
